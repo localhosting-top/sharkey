@@ -1,0 +1,23 @@
+{
+	"extends": "../tsconfig.backend.json",
+	"compilerOptions": {
+		"rootDir": "../",
+		"paths": {
+			"@/*": ["../src/*"]
+		},
+		"outDir": "../built-test"
+	},
+	"include": [
+		"./**/*.ts",
+		"../src/**/*.ts"
+	],
+	"exclude": [
+		"**/node_modules",
+		"**/built/",
+		"**/*.test.ts",
+		"./test/**/*",
+		"./test-federation/**/*",
+		"./test-server/**/*",
+		"../src/**/*.test.ts"
+	]
+}
