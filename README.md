@@ -54,4 +54,4 @@ Sharkey Documentation can be found at [Sharkey Documentation](https://docs.joins
 
 ## Valid Information
 
-If you want to use Sharkey, then either click [here](https://activitypub.software/TransFem-org/Sharkey) or setup Sharkey with [Docker Compose and other type of installation](https://docs.joinsharkey.org/docs/install/fresh/)
+If you want to use Sharkey from their official repo, then either click [here](https://activitypub.software/TransFem-org/Sharkey) or setup Sharkey with [Docker Compose and other type of installation](https://docs.joinsharkey.org/docs/install/fresh/)
