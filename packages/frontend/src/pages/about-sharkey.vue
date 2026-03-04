@@ -141,47 +141,47 @@ const everyone = ref<Section[]>([
 		people: fisher_yates([
 			{
 				handle: '@CenTdemeern1',
-				avatar: 'https://secure.gravatar.com/avatar/e97dd57d32caf703cea556ace6304617b7420f17f5b1aac4a1eea8e4234735bb?s=128&d=identicon',
+				avatar: 'https://secure.gravatar.com/avatar/e97dd57d32caf703cea556ace6304617b7420f17f5b1aac4a1eea8e4234735bb?s=256&d=identicon',
 				link: 'https://activitypub.software/CenTdemeern1',
 			},
 			{
 				handle: '@dakkar',
-				avatar: 'https://secure.gravatar.com/avatar/c71b315eed7c63ff94c42b1b3e8dbad1?s=128&d=identicon',
+				avatar: 'https://secure.gravatar.com/avatar/c71b315eed7c63ff94c42b1b3e8dbad1?s=256&d=identicon',
 				link: 'https://activitypub.software/dakkar',
 			},
 			{
 				handle: '@hazelnoot',
-				avatar: 'https://activitypub.software/uploads/-/system/user/avatar/5/avatar.png?width=128',
+				avatar: 'https://activitypub.software/uploads/-/system/user/avatar/5/avatar.png?width=256',
 				link: 'https://activitypub.software/fEmber',
 			},
 			{
 				handle: '@julia',
-				avatar: 'https://activitypub.software/uploads/-/system/user/avatar/41/avatar.png?width=128',
+				avatar: 'https://activitypub.software/uploads/-/system/user/avatar/41/avatar.png?width=256',
 				link: 'https://activitypub.software/julia',
 			},
 			{
 				handle: '@Luna',
-				avatar: 'https://secure.gravatar.com/avatar/4faf37df86a3d93a6c19ed6abf8588eade4efb837410dbbc53021b4fd12eaae7?s=128&d=identicon',
+				avatar: 'https://secure.gravatar.com/avatar/4faf37df86a3d93a6c19ed6abf8588eade4efb837410dbbc53021b4fd12eaae7?s=256&d=identicon',
 				link: 'https://activitypub.software/luna',
 			},
 			{
 				handle: '@Marie',
-				avatar: 'https://activitypub.software/uploads/-/system/user/avatar/2/avatar.png?width=128',
+				avatar: 'https://activitypub.software/uploads/-/system/user/avatar/2/avatar.png?width=256',
 				link: 'https://activitypub.software/marie',
 			},
 			{
 				handle: '@supakaity',
-				avatar: 'https://activitypub.software/uploads/-/system/user/avatar/65/avatar.png?width=128',
+				avatar: 'https://activitypub.software/uploads/-/system/user/avatar/65/avatar.png?width=256',
 				link: 'https://activitypub.software/supakaity',
 			},
 			{
 				handle: '@tess',
-				avatar: 'https://activitypub.software/uploads/-/system/user/avatar/132/avatar.png?width=128',
+				avatar: 'https://activitypub.software/uploads/-/system/user/avatar/132/avatar.png?width=256',
 				link: 'https://activitypub.software/tess',
 			},
 			{
 				handle: '@bunnybeam',
-				avatar: 'https://secure.gravatar.com/avatar/25736ba5847665e58884874e87042324e9233885263cb982bfa19f667b8304ae?s=128&d=identicon',
+				avatar: 'https://secure.gravatar.com/avatar/25736ba5847665e58884874e87042324e9233885263cb982bfa19f667b8304ae?s=256&d=identicon',
 				link: 'https://activitypub.software/bunnybeam',
 			},
 		]),
@@ -211,62 +211,62 @@ const everyone = ref<Section[]>([
 		people: [
 			{
 				handle: '@syuilo',
-				avatar: 'https://avatars.githubusercontent.com/u/4439005?s=128&v=4',
+				avatar: 'https://avatars.githubusercontent.com/u/4439005?s=256&v=4',
 				link: 'https://github.com/syuilo',
 			},
 			{
 				handle: '@tamaina',
-				avatar: 'https://avatars.githubusercontent.com/u/7973572?s=128&v=4',
+				avatar: 'https://avatars.githubusercontent.com/u/7973572?s=256&v=4',
 				link: 'https://github.com/tamaina',
 			},
 			{
 				handle: '@acid-chicken',
-				avatar: 'https://avatars.githubusercontent.com/u/20679825?s=128&v=4',
+				avatar: 'https://avatars.githubusercontent.com/u/20679825?s=256&v=4',
 				link: 'https://github.com/acid-chicken',
 			},
 			{
 				handle: '@mei23',
-				avatar: 'https://avatars.githubusercontent.com/u/30769358?s=128&v=4',
+				avatar: 'https://avatars.githubusercontent.com/u/30769358?s=256&v=4',
 				link: 'https://github.com/mei23',
 			},
 			{
 				handle: '@AyaMorisawa',
-				avatar: 'https://avatars.githubusercontent.com/u/10798641?s=128&v=4',
+				avatar: 'https://avatars.githubusercontent.com/u/10798641?s=256&v=4',
 				link: 'https://github.com/AyaMorisawa',
 			},
 			{
 				handle: '@kakkokari-gtyih',
-				avatar: 'https://avatars.githubusercontent.com/u/67428053?s=128&v=4',
+				avatar: 'https://avatars.githubusercontent.com/u/67428053?s=256&v=4',
 				link: 'https://github.com/kakkokari-gtyih',
 			},
 			{
 				handle: '@tai-cha',
-				avatar: 'https://avatars.githubusercontent.com/u/40626578?s=128&v=4',
+				avatar: 'https://avatars.githubusercontent.com/u/40626578?s=256&v=4',
 				link: 'https://github.com/tai-cha',
 			},
 			{
 				handle: '@Johann150',
-				avatar: 'https://avatars.githubusercontent.com/u/20990607?s=128&v=4',
+				avatar: 'https://avatars.githubusercontent.com/u/20990607?s=256&v=4',
 				link: 'https://github.com/Johann150',
 			},
 			{
 				handle: '@anatawa12',
-				avatar: 'https://avatars.githubusercontent.com/u/22656849?s=128&v=4',
+				avatar: 'https://avatars.githubusercontent.com/u/22656849?s=256&v=4',
 				link: 'https://github.com/anatawa12',
 			},
 			{
 				handle: '@saschanaz',
-				avatar: 'https://avatars.githubusercontent.com/u/3396686?s=128&v=4',
+				avatar: 'https://avatars.githubusercontent.com/u/3396686?s=256&v=4',
 				link: 'https://github.com/saschanaz',
 			},
 			{
 				handle: '@zyoshoka',
-				avatar: 'https://avatars.githubusercontent.com/u/107108195?s=128&v=4',
+				avatar: 'https://avatars.githubusercontent.com/u/107108195?s=256&v=4',
 				link: 'https://github.com/zyoshoka',
 			},
 			{
 				handle: '@samunohito',
-				avatar: 'https://avatars.githubusercontent.com/u/46447427?s=128&v=4',
+				avatar: 'https://avatars.githubusercontent.com/u/46447427?s=256&v=4',
 				link: 'https://github.com/samunohito',
 			},
 		],
@@ -461,7 +461,8 @@ definePage(() => ({
 }
 
 .contributorAvatar {
-	width: 30px;
+	width: 256px;
+	height: 256px;
 	border-radius: var(--MI-radius-full);
 }
 

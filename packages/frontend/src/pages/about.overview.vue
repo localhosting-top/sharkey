@@ -250,7 +250,8 @@ await misskeyApi('sponsors', { instance: true }).then((res) => sponsors.value = 
 }
 
 .contributorAvatar {
-	width: 30px;
+	width: 256px;
+	height: 256px;
 	border-radius: var(--MI-radius-full);
 }
 
